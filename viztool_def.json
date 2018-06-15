@@ -1,0 +1,9 @@
+{
+    "name": "D3CurveNonTemporal",
+    "types": ["correlation_by_context"],
+    "classRef": D3CurveNonTemporal,
+    "keyMap": {
+        "click": "Display scatterplot about the 2 TS corresponding to this point"
+    },
+    "desc": "Plot a non temporal series"
+}
